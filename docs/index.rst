@@ -3,6 +3,11 @@ Easy Access: How to Sign in Club Pogo as Already Members? Login and Start Playin
 
 Are you facing trouble figuring out how to **sign in as an existing Club Pogo member**? Whether you're using a desktop or mobile device, understanding the correct steps to sign in can help you enjoy uninterrupted gaming. In this comprehensive guide, we’ll explain exactly how **Club Pogo members sign in**, especially for those who are wondering: *"I'm already a Club Pogo member—how do I sign in and play?"* If you're asking this question, you’re in the right place.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pogo-desk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Pogo</a>
+   </div>
 This guide will also help resolve common login issues and offer security tips for keeping your account safe. If you’re wondering about where to go, how to access your games, and how to manage your membership—read on to learn more about **Club Pogo sign in as member**.
 
 Getting Started: Already a Club Pogo Member? Sign In Here
